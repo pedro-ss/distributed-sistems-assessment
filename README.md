@@ -2,7 +2,6 @@
 Atividade para cadeira de Sistemas distribuídos
 
 ### Estrutura do crud
-
 ```
 src
 ---main
@@ -26,6 +25,8 @@ src
 - docker, docker-compose
 
 ### Para executar
+Acessar o diretório:
+> musicas/
 
 Empacotamos a aplicação:
 
